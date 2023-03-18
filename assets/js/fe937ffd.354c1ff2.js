@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunktutorial_docusaurus=self.webpackChunktutorial_docusaurus||[]).push([[2039],{7234:o=>{o.exports=JSON.parse('{"permalink":"/tutorial-docusaurus/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
